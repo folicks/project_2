@@ -29,6 +29,6 @@ export const nonSugarIngredients = {
 
 export const cardSetInfo = {
     title: "Hidden Sugars in Food",
-    description: "Learn to identify sugar ingredients hidden in food labels. Can you spot which ingredients are actually different forms of sugar?",
+    description: "Learn to identify sugar ingredients hidden in food labels. Can you spot which ingredients are actually different forms of simple sugar?",
     totalCards: 20  // Combined count of sugar and non-sugar ingredients
 }

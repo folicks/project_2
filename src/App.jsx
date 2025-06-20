@@ -56,6 +56,7 @@ function App() {
               <div className="button-container">
                 <button onClick={() => handleAnswer(true)}>Yes, it's sugar</button>
                 <button onClick={() => handleAnswer(false)}>No, it's not sugar</button>
+                <button onClick={handleNext}>Skip</button>
               </div>
             </div>
             <div className="flip-card-back">
