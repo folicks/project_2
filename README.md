@@ -1,10 +1,10 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Is it sugar*
 
-Submitted by: **Your Name Here**
+Submitted by: **Felix Najera**
 
-This web app: **insert description**
+This web app: **sugar alternatives notecards**
 
-Time spent: **X** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## Required Features
 
